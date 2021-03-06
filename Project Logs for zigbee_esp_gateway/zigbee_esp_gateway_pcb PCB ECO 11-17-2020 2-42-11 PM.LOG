@@ -1,0 +1,187 @@
+Added Component: Designator=C1(SM-CAP-0805)
+Added Component: Designator=C2(JP5-D2T)
+Added Component: Designator=C3(JP3-D2T)
+Added Component: Designator=C4(JP4-D2T)
+Added Component: Designator=C5(SM-CAP-0805)
+Added Component: Designator=C6(SM-CAP-0805)
+Added Component: Designator=C7(SM-CAP-0805)
+Added Component: Designator=C8(CAP-ALU-SMD-6.3x7.7x2.2)
+Added Component: Designator=C9(CAP-ALU-SMD-5x5.5x1.4)
+Added Component: Designator=C10(CAP-ALU-SMD-5x5.5x1.4)
+Added Component: Designator=DIO1(DIO-SMD-106)
+Added Component: Designator=IC1(TO220-123)
+Added Component: Designator=J1(AMPHENOL_10118194-0001LF)
+Added Component: Designator=JDC1(DC5)
+Added Component: Designator=LED1(LED-0805-Red)
+Added Component: Designator=MOD?(EBYTE-LORA-ZIGBEE-MODULE)
+Added Component: Designator=R1(RES-SMD-0805)
+Added Component: Designator=R2(RES-SMD-0805)
+Added Component: Designator=R3(RES-SMD-0805)
+Added Component: Designator=R4(RES-SMD-0805)
+Added Component: Designator=R5(RES-SMD-0805)
+Added Component: Designator=R6(RES-SMD-0805)
+Added Component: Designator=R7(RES-SMD-0805)
+Added Component: Designator=R8(RES-SMD-0805)
+Added Component: Designator=R9(RES-SMD-0805)
+Added Component: Designator=R10(RES-SMD-0805)
+Added Component: Designator=R11(RES-SMD-0805)
+Added Component: Designator=R12(RES-SMD-0805)
+Added Component: Designator=R13(RES-SMD-0805)
+Added Component: Designator=R14(RES-SMD-0805)
+Added Component: Designator=R15(RES-SMD-0805)
+Added Component: Designator=SW1(SW1-SMD)
+Added Component: Designator=SW2(SW-DIP1-1)
+Added Component: Designator=U1(ESP_12_E)
+Added Component: Designator=U2(SOT223)
+Added Pin To Net: NetName=3V3 Pin=C2-5
+Added Pin To Net: NetName=3V3 Pin=C2-10
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=MOD?-2
+Added Pin To Net: NetName=3V3 Pin=MOD?-P6
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R15-1
+Added Pin To Net: NetName=3V3 Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C9-1
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Net: Name=5V
+Added Pin To Net: NetName=CLK Pin=C2-8
+Added Pin To Net: NetName=CLK Pin=MOD?-10
+Added Net: Name=CLK
+Added Pin To Net: NetName=CS Pin=C2-3
+Added Pin To Net: NetName=CS Pin=MOD?-11
+Added Net: Name=CS
+Added Pin To Net: NetName=DC Pin=C2-2
+Added Pin To Net: NetName=DC Pin=MOD?-3
+Added Net: Name=DC
+Added Pin To Net: NetName=DD Pin=C2-9
+Added Pin To Net: NetName=DD Pin=MOD?-4
+Added Net: Name=DD
+Added Pin To Net: NetName=DIG_IN Pin=MOD?-5
+Added Net: Name=DIG_IN
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-4
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=MOD?-1
+Added Pin To Net: NetName=GND Pin=MOD?-P7
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IO12 Pin=C4-6
+Added Pin To Net: NetName=IO12 Pin=R9-2
+Added Pin To Net: NetName=IO12 Pin=R13-1
+Added Pin To Net: NetName=IO12 Pin=U1-6
+Added Net: Name=IO12
+Added Pin To Net: NetName=IO13 Pin=C4-5
+Added Pin To Net: NetName=IO13 Pin=R10-2
+Added Pin To Net: NetName=IO13 Pin=R14-1
+Added Pin To Net: NetName=IO13 Pin=U1-7
+Added Net: Name=IO13
+Added Pin To Net: NetName=IO14 Pin=C4-7
+Added Pin To Net: NetName=IO14 Pin=R8-2
+Added Pin To Net: NetName=IO14 Pin=R12-1
+Added Pin To Net: NetName=IO14 Pin=U1-5
+Added Net: Name=IO14
+Added Pin To Net: NetName=IO16 Pin=C4-8
+Added Pin To Net: NetName=IO16 Pin=R7-2
+Added Pin To Net: NetName=IO16 Pin=R11-1
+Added Pin To Net: NetName=IO16 Pin=U1-4
+Added Net: Name=IO16
+Added Pin To Net: NetName=KEY Pin=MOD?-12
+Added Net: Name=KEY
+Added Pin To Net: NetName=MISO Pin=C2-6
+Added Pin To Net: NetName=MISO Pin=MOD?-6
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=C2-7
+Added Pin To Net: NetName=MOSI Pin=MOD?-7
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C8-1
+Added Pin To Net: NetName=NetC5_2 Pin=DIO1-2
+Added Pin To Net: NetName=NetC5_2 Pin=IC1-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetDIO1_1 Pin=DIO1-1
+Added Pin To Net: NetName=NetDIO1_1 Pin=JDC1-1
+Added Net: Name=NetDIO1_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R15-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW2-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-18
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-17
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-16
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=RESET Pin=C1-2
+Added Pin To Net: NetName=RESET Pin=C2-4
+Added Pin To Net: NetName=RESET Pin=MOD?-24
+Added Pin To Net: NetName=RESET Pin=R6-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=RST Pin=R2-1
+Added Pin To Net: NetName=RST Pin=SW1-2
+Added Pin To Net: NetName=RST Pin=U1-1
+Added Net: Name=RST
+Added Pin To Net: NetName=RX_ESP Pin=C3-6
+Added Pin To Net: NetName=RX_ESP Pin=C4-2
+Added Pin To Net: NetName=RX_ESP Pin=J1-2
+Added Pin To Net: NetName=RX_ESP Pin=U1-22
+Added Net: Name=RX_ESP
+Added Pin To Net: NetName=RX_Z Pin=C3-4
+Added Pin To Net: NetName=RX_Z Pin=U1-20
+Added Net: Name=RX_Z
+Added Pin To Net: NetName=RX Pin=C3-5
+Added Pin To Net: NetName=RX Pin=MOD?-21
+Added Net: Name=RX
+Added Pin To Net: NetName=SENSOR Pin=MOD?-16
+Added Net: Name=SENSOR
+Added Pin To Net: NetName=TX_ESP Pin=C3-1
+Added Pin To Net: NetName=TX_ESP Pin=C4-3
+Added Pin To Net: NetName=TX_ESP Pin=J1-3
+Added Pin To Net: NetName=TX_ESP Pin=U1-21
+Added Net: Name=TX_ESP
+Added Pin To Net: NetName=TX_Z Pin=C3-3
+Added Pin To Net: NetName=TX_Z Pin=U1-19
+Added Net: Name=TX_Z
+Added Pin To Net: NetName=TX Pin=C3-2
+Added Pin To Net: NetName=TX Pin=MOD?-20
+Added Net: Name=TX
+Added Class: Name=zigbee_esp_gateway_schematic
+Added Room: Name=zigbee_esp_gateway_schematic

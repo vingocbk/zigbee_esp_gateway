@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [zigbee_esp_gateway.PrjPcb]
+   Generated File[zigbee_esp_gateway_pcb.GTL]
+   Generated File[zigbee_esp_gateway_pcb.GBL]
+   Generated File[zigbee_esp_gateway_pcb.GPB]
+   Generated File[zigbee_esp_gateway_pcb.GPT]
+   Generated File[zigbee_esp_gateway_pcb.GTO]
+   Generated File[zigbee_esp_gateway_pcb.GTP]
+   Generated File[zigbee_esp_gateway_pcb.GTS]
+   Generated File[zigbee_esp_gateway_pcb.GBS]
+   Generated File[zigbee_esp_gateway_pcb.GBP]
+   Generated File[zigbee_esp_gateway_pcb.GBO]
+   Generated File[zigbee_esp_gateway_pcb.GKO]
+   Generated File[zigbee_esp_gateway_pcb.GM1]
+   Generated File[zigbee_esp_gateway_pcb.GM2]
+   Generated File[zigbee_esp_gateway_pcb.GM7]
+   Generated File[zigbee_esp_gateway_pcb.GM13]
+   Generated File[zigbee_esp_gateway_pcb.GM15]
+   Generated File[zigbee_esp_gateway_pcb.GD1]
+   Generated File[zigbee_esp_gateway_pcb.GG1]
+   Generated File[zigbee_esp_gateway_pcb.RUL]
+   Generated File[zigbee_esp_gateway_pcb.EXTREP]
+   Generated File[zigbee_esp_gateway_pcb.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 4:10:07 PM On 11/17/2020
